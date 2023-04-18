@@ -1,4 +1,4 @@
-lockfileVersion: 5.4
+lockfileVersion: 5.3
 
 specifiers:
   '@types/node': ^18.11.11
@@ -14,7 +14,7 @@ dependencies:
   '@types/node': 18.15.11
   '@waylaidwanderer/chatgpt-api': 1.33.1
   qrcode-terminal: 0.12.0
-  ts-node: 10.9.1_o6avl3oodj6mwqsx3rm2wfkgv4
+  ts-node: 10.9.1_778155edce1a7ccb4257dc59ab1546af
   tslib: 2.5.0
   typescript: 4.9.5
   wechaty: 1.20.2
@@ -192,7 +192,7 @@ packages:
       tinycolor2: 1.6.0
     dev: false
 
-  /@jimp/plugin-contain/0.16.13_ytdxnc5azjbmsd5q4kha72gawu:
+  /@jimp/plugin-contain/0.16.13_c4c7768ba0ca42c90fb0e28e0fe8c0b5:
     resolution: {integrity: sha512-QayTXw4tXMwU6q6acNTQrTTFTXpNRBe+MgTGMDU0lk+23PjlFCO/9sacflelG8lsp7vNHhAxFeHptDMAksEYzg==}
     peerDependencies:
       '@jimp/custom': '>=0.3.5'
@@ -204,11 +204,11 @@ packages:
       '@jimp/custom': 0.16.13
       '@jimp/plugin-blit': 0.16.13_@jimp+custom@0.16.13
       '@jimp/plugin-resize': 0.16.13_@jimp+custom@0.16.13
-      '@jimp/plugin-scale': 0.16.13_dexmmscx7ww4u3vckmrugrvp6i
+      '@jimp/plugin-scale': 0.16.13_192ec64857fdadca6ea253234346aff2
       '@jimp/utils': 0.16.13
     dev: false
 
-  /@jimp/plugin-cover/0.16.13_ljzvs74yoey4l6awwtzrdfnbfu:
+  /@jimp/plugin-cover/0.16.13_5a73597f987131c5f816b4f31195a12d:
     resolution: {integrity: sha512-BSsP71GTNaqWRcvkbWuIVH+zK7b3TSNebbhDkFK0fVaUTzHuKMS/mgY4hDZIEVt7Rf5FjadAYtsujHN9w0iSYA==}
     peerDependencies:
       '@jimp/custom': '>=0.3.5'
@@ -220,7 +220,7 @@ packages:
       '@jimp/custom': 0.16.13
       '@jimp/plugin-crop': 0.16.13_@jimp+custom@0.16.13
       '@jimp/plugin-resize': 0.16.13_@jimp+custom@0.16.13
-      '@jimp/plugin-scale': 0.16.13_dexmmscx7ww4u3vckmrugrvp6i
+      '@jimp/plugin-scale': 0.16.13_192ec64857fdadca6ea253234346aff2
       '@jimp/utils': 0.16.13
     dev: false
 
@@ -264,7 +264,7 @@ packages:
       '@jimp/utils': 0.16.13
     dev: false
 
-  /@jimp/plugin-flip/0.16.13_dinqm3ip3yxubmuzlst7jf3qnu:
+  /@jimp/plugin-flip/0.16.13_1a1b066d0fde2f40b2995ca7f497706d:
     resolution: {integrity: sha512-EmcgAA74FTc5u7Z+hUO/sRjWwfPPLuOQP5O64x5g4j0T12Bd29IgsYZxoutZo/rb3579+JNa/3wsSEmyVv1EpA==}
     peerDependencies:
       '@jimp/custom': '>=0.3.5'
@@ -272,7 +272,7 @@ packages:
     dependencies:
       '@babel/runtime': 7.21.0
       '@jimp/custom': 0.16.13
-      '@jimp/plugin-rotate': 0.16.13_igk7ppyprnzkp6qrk7n75qpssa
+      '@jimp/plugin-rotate': 0.16.13_4195f7bf0f8b72a7fa1157dbfec1f290
       '@jimp/utils': 0.16.13
     dev: false
 
@@ -316,7 +316,7 @@ packages:
       '@jimp/utils': 0.16.13
     dev: false
 
-  /@jimp/plugin-print/0.16.13_e6zlpzxdluye2ixmze3c4jjwe4:
+  /@jimp/plugin-print/0.16.13_27b2b7e6e35d304d22ecc9362e253627:
     resolution: {integrity: sha512-0m6i3p01PGRkGAK9r53hDYrkyMq+tlhLOIbsSTmZyh6HLshUKlTB7eXskF5OpVd5ZUHoltlNc6R+ggvKIzxRFw==}
     peerDependencies:
       '@jimp/custom': '>=0.3.5'
@@ -339,7 +339,7 @@ packages:
       '@jimp/utils': 0.16.13
     dev: false
 
-  /@jimp/plugin-rotate/0.16.13_igk7ppyprnzkp6qrk7n75qpssa:
+  /@jimp/plugin-rotate/0.16.13_4195f7bf0f8b72a7fa1157dbfec1f290:
     resolution: {integrity: sha512-Ev+Jjmj1nHYw897z9C3R9dYsPv7S2/nxdgfFb/h8hOwK0Ovd1k/+yYS46A0uj/JCKK0pQk8wOslYBkPwdnLorw==}
     peerDependencies:
       '@jimp/custom': '>=0.3.5'
@@ -355,7 +355,7 @@ packages:
       '@jimp/utils': 0.16.13
     dev: false
 
-  /@jimp/plugin-scale/0.16.13_dexmmscx7ww4u3vckmrugrvp6i:
+  /@jimp/plugin-scale/0.16.13_192ec64857fdadca6ea253234346aff2:
     resolution: {integrity: sha512-05POQaEJVucjTiSGMoH68ZiELc7QqpIpuQlZ2JBbhCV+WCbPFUBcGSmE7w4Jd0E2GvCho/NoMODLwgcVGQA97A==}
     peerDependencies:
       '@jimp/custom': '>=0.3.5'
@@ -367,7 +367,7 @@ packages:
       '@jimp/utils': 0.16.13
     dev: false
 
-  /@jimp/plugin-shadow/0.16.13_up7majfuyv2s7zg5ovxli3bmbq:
+  /@jimp/plugin-shadow/0.16.13_a3fec024b4c5752fe4dd756eb46c2c0c:
     resolution: {integrity: sha512-nmu5VSZ9hsB1JchTKhnnCY+paRBnwzSyK5fhkhtQHHoFD5ArBQ/5wU8y6tCr7k/GQhhGq1OrixsECeMjPoc8Zw==}
     peerDependencies:
       '@jimp/custom': '>=0.3.5'
@@ -381,7 +381,7 @@ packages:
       '@jimp/utils': 0.16.13
     dev: false
 
-  /@jimp/plugin-threshold/0.16.13_wj7iuhn2d3vrpyabmf27e33cly:
+  /@jimp/plugin-threshold/0.16.13_b27e8a1dba1eeb17e0016175f26f625e:
     resolution: {integrity: sha512-+3zArBH0OE3Rhjm4HyAokMsZlIq5gpQec33CncyoSwxtRBM2WAhUVmCUKuBo+Lr/2/4ISoY4BWpHKhMLDix6cA==}
     peerDependencies:
       '@jimp/custom': '>=0.3.5'
@@ -406,23 +406,23 @@ packages:
       '@jimp/plugin-blur': 0.16.13_@jimp+custom@0.16.13
       '@jimp/plugin-circle': 0.16.13_@jimp+custom@0.16.13
       '@jimp/plugin-color': 0.16.13_@jimp+custom@0.16.13
-      '@jimp/plugin-contain': 0.16.13_ytdxnc5azjbmsd5q4kha72gawu
-      '@jimp/plugin-cover': 0.16.13_ljzvs74yoey4l6awwtzrdfnbfu
+      '@jimp/plugin-contain': 0.16.13_c4c7768ba0ca42c90fb0e28e0fe8c0b5
+      '@jimp/plugin-cover': 0.16.13_5a73597f987131c5f816b4f31195a12d
       '@jimp/plugin-crop': 0.16.13_@jimp+custom@0.16.13
       '@jimp/plugin-displace': 0.16.13_@jimp+custom@0.16.13
       '@jimp/plugin-dither': 0.16.13_@jimp+custom@0.16.13
       '@jimp/plugin-fisheye': 0.16.13_@jimp+custom@0.16.13
-      '@jimp/plugin-flip': 0.16.13_dinqm3ip3yxubmuzlst7jf3qnu
+      '@jimp/plugin-flip': 0.16.13_1a1b066d0fde2f40b2995ca7f497706d
       '@jimp/plugin-gaussian': 0.16.13_@jimp+custom@0.16.13
       '@jimp/plugin-invert': 0.16.13_@jimp+custom@0.16.13
       '@jimp/plugin-mask': 0.16.13_@jimp+custom@0.16.13
       '@jimp/plugin-normalize': 0.16.13_@jimp+custom@0.16.13
-      '@jimp/plugin-print': 0.16.13_e6zlpzxdluye2ixmze3c4jjwe4
+      '@jimp/plugin-print': 0.16.13_27b2b7e6e35d304d22ecc9362e253627
       '@jimp/plugin-resize': 0.16.13_@jimp+custom@0.16.13
-      '@jimp/plugin-rotate': 0.16.13_igk7ppyprnzkp6qrk7n75qpssa
-      '@jimp/plugin-scale': 0.16.13_dexmmscx7ww4u3vckmrugrvp6i
-      '@jimp/plugin-shadow': 0.16.13_up7majfuyv2s7zg5ovxli3bmbq
-      '@jimp/plugin-threshold': 0.16.13_wj7iuhn2d3vrpyabmf27e33cly
+      '@jimp/plugin-rotate': 0.16.13_4195f7bf0f8b72a7fa1157dbfec1f290
+      '@jimp/plugin-scale': 0.16.13_192ec64857fdadca6ea253234346aff2
+      '@jimp/plugin-shadow': 0.16.13_a3fec024b4c5752fe4dd756eb46c2c0c
+      '@jimp/plugin-threshold': 0.16.13_b27e8a1dba1eeb17e0016175f26f625e
       timm: 1.7.1
     dev: false
 
@@ -1272,7 +1272,7 @@ packages:
     engines: {node: '>=12'}
     dev: false
 
-  /ducks/1.0.2_cua7gycm3neoeazvv4tobskj7e:
+  /ducks/1.0.2_1501f3604cdb48e20335af26e0c949f9:
     resolution: {integrity: sha512-CDLrkP4g5E3IG0kAPrlVgavrgtNwn528DsXFZq3dSOx+DaS5nnoH9eEOXJ1emXtPVwiVF50pOYvWGF42miaJgg==}
     engines: {node: '>=16', npm: '>=7'}
     peerDependencies:
@@ -3190,7 +3190,7 @@ packages:
       xstate: 4.37.1
     dev: false
 
-  /state-switch/1.7.1_tcppfhatzsoz34uwt475ldw2ga:
+  /state-switch/1.7.1_brolog@1.14.2+gerror@1.0.16:
     resolution: {integrity: sha512-P8G42lE6JW8l9wbYSxRfB81qTGJw+z4fXN9jSRpOy5i09oonoFcOZGGObvYyiMz7pxatTzbWzhHi+ioKzflm2g==}
     engines: {node: '>=16', npm: '>=7'}
     peerDependencies:
@@ -3358,7 +3358,7 @@ packages:
     resolution: {integrity: sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw==}
     dev: false
 
-  /ts-node/10.9.1_o6avl3oodj6mwqsx3rm2wfkgv4:
+  /ts-node/10.9.1_778155edce1a7ccb4257dc59ab1546af:
     resolution: {integrity: sha512-NtVysVPkxxrwFGUUxGYhfux8k78pQB3JqYBXlLRZgdGUqTO5wU/UyHop5p70iEbGhB7q5KmiZiU0Y3KlJrScEw==}
     hasBin: true
     peerDependencies:
@@ -3552,7 +3552,7 @@ packages:
       stronger-typed-streams: 0.2.0
     dev: false
 
-  /wechaty-puppet-service/1.19.9_jkyvhh2danr4dcnhzsykeo22pa:
+  /wechaty-puppet-service/1.19.9_4ab1539f430363c189a7ccb0a23b5a78:
     resolution: {integrity: sha512-nmJmG67hhM0M2gzr+yXDw8HIGn0BBB1p8b9+Fw7D0ENP7olMRuBPW7ST+Qs0WXJjd4X2+uoAsdCErs3L5d5JzA==}
     engines: {node: '>=16', npm: '>=7'}
     peerDependencies:
@@ -3570,7 +3570,7 @@ packages:
       uuid: 8.3.2
       wechaty-grpc: 1.5.2
       wechaty-puppet: 1.20.2
-      wechaty-redux: 1.20.2_jkyvhh2danr4dcnhzsykeo22pa
+      wechaty-redux: 1.20.2_4ab1539f430363c189a7ccb0a23b5a78
       wechaty-token: 1.1.2
     transitivePeerDependencies:
       - brolog
@@ -3637,7 +3637,7 @@ packages:
       fp-ts: 2.13.1
       gerror: 1.0.16
       memory-card: 1.1.2
-      state-switch: 1.7.1_tcppfhatzsoz34uwt475ldw2ga
+      state-switch: 1.7.1_brolog@1.14.2+gerror@1.0.16
       typed-emitter: 1.5.0-from-event
       typesafe-actions: 5.1.0
       uuid: 8.3.2
@@ -3646,14 +3646,14 @@ packages:
       - rxjs
     dev: false
 
-  /wechaty-redux/1.20.2_jkyvhh2danr4dcnhzsykeo22pa:
+  /wechaty-redux/1.20.2_4ab1539f430363c189a7ccb0a23b5a78:
     resolution: {integrity: sha512-XAhSmdCDa1yaAMRYPiYqbX3BL0T1Owyf+77HxLY+450AFAyjM4xak5ZLStLWIA3zEktgzn6KwEthtu7mmZ7n3g==}
     engines: {node: '>=16', npm: '>=7'}
     peerDependencies:
       wechaty: ^1.18.1
       wechaty-puppet: ^1.18.3
     dependencies:
-      ducks: 1.0.2_cua7gycm3neoeazvv4tobskj7e
+      ducks: 1.0.2_1501f3604cdb48e20335af26e0c949f9
       gerror: 1.0.16
       redux: 4.2.1
       redux-observable: 2.0.0_redux@4.2.1
@@ -3703,7 +3703,7 @@ packages:
       state-switch: 1.6.3_gerror@1.0.16
       uuid: 8.3.2
       wechaty-puppet: 1.20.2
-      wechaty-puppet-service: 1.19.9_jkyvhh2danr4dcnhzsykeo22pa
+      wechaty-puppet-service: 1.19.9_4ab1539f430363c189a7ccb0a23b5a78
       wechaty-puppet-wechat4u: 1.13.14_wechaty-puppet@1.20.2
       wechaty-token: 1.1.2
       ws: 8.13.0
