@@ -6,6 +6,7 @@
   "module": "lib/bundle.esm.js",
   "type": "module",
   "scripts": {
+    "start": "node --loader ts-node/esm --inspect ./src/index.ts",
     "dev": "node --loader ts-node/esm --inspect ./src/index.ts",
     "test": "node --loader ts-node/esm --inspect ./src/auth.ts",
     "lint:eslint": "eslint --cache --max-warnings 0  \"{src,mock}/**/*.{ts,tsx}\" --fix",
